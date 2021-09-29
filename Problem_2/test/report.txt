@@ -1,0 +1,7 @@
+test_verify_if_is_equal_custom (test.ListTest) ... ok
+test_verify_if_is_equal_problem (test.ListTest) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
