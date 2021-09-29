@@ -1,0 +1,9 @@
+test_verify_if_is_false_custom (test.ListTest) ... ok
+test_verify_if_is_false_example (test.ListTest) ... ok
+test_verify_if_is_true_custom (test.ListTest) ... ok
+test_verify_if_is_true_example (test.ListTest) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+OK
